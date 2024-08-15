@@ -104,6 +104,6 @@ theme: minos
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xpq-tech/NUDT-TMG.github.io.git # 这里不需要修改（虽然买了阿里云服务器）
+  repo: https://github.com/nudt-tmg/nudt-tmg.github.io.git # 这里不需要修改（虽然买了阿里云服务器）
   branch: master
   token: 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
