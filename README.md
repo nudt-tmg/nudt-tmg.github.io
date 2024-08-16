@@ -24,9 +24,9 @@
 - **仅更新**步骤：
   
    1. fork并clone 仓库
- 
+      ```
       git clone https://github.com/nudt-tmg/nudt-tmg.github.io.git
-      
+      ```
    3. 更新内容并提交pull requests
   
       
