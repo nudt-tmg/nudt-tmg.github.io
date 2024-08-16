@@ -50,9 +50,10 @@
   3. **更新内容后使用以下命令检查更新内容**（需要hexo环境，[具体参考这里](https://zhuanlan.zhihu.com/p/299161193)）
   
      ```shell
-     # 安装和更新项目依赖
-     npm install npm -g 
-     hexo c & hexo g & hexo s
+     # 安装和更新项目依赖（或npm install npm -g，全局安装npm包的最新版本）
+     npm install
+     hexo c & hexo g
+     hexo s
      ```
   
   4. **使用以下命令推送编译的内容到master分支**
