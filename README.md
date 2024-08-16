@@ -23,10 +23,11 @@
 
 - **仅更新**步骤：
   
-   1. fork并clone 仓库
+   1. fork并clone 仓库，打开git bash输入以下命令：
       ```
       git clone https://github.com/nudt-tmg/nudt-tmg.github.io.git
       ```
+   2.
    3. 更新内容并提交pull requests
   
       
@@ -48,3 +49,7 @@
      ```
   
   4. **同步更新的内容到source分支**
+
+
+
+本文参考https://www.jianshu.com/p/0b1fccce74e0
