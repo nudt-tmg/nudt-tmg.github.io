@@ -30,13 +30,13 @@
   
    4. 更新内容并提交pull requests
 
-      ```
-      git init
-      git remote add https://github.com/nudt-tmg/nudt-tmg.github.io.git
-      git add .
-      git commit -m "upload"
-      git push -u origin source
-      ```
+     ```
+     git init
+     git remote add https://github.com/nudt-tmg/nudt-tmg.github.io.git
+     git add .
+     git commit -m "upload"
+     git push -u origin source
+     ```
       
   
 - **更新并编译**步骤：
@@ -64,6 +64,12 @@
   
   5. **同步更新的内容到source分支**
 
-
+     ```
+     git init
+     git remote add https://github.com/nudt-tmg/nudt-tmg.github.io.git
+     git add .
+     git commit -m "upload"
+     git push -u origin source
+     ```
 
 本文参考https://www.jianshu.com/p/0b1fccce74e0
