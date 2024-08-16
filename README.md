@@ -48,7 +48,7 @@
      git pull
      ```
   
-  3. **更新内容后使用以下命令检查更新内容**（需要hexo环境，[具体参考这里](https://zhuanlan.zhihu.com/p/299161193)）
+  2. **更新内容后使用以下命令检查更新内容**（需要hexo环境，[具体参考这里](https://zhuanlan.zhihu.com/p/299161193)）
   
      ```shell
      # 安装和更新项目依赖（或npm install npm -g，全局安装npm包的最新版本）
@@ -57,13 +57,13 @@
      hexo s
      ```
   
-  4. **使用以下命令推送编译的内容到master分支**
+  3. **使用以下命令推送编译的内容到master分支**
   
      ```
      hexo c & hexo d
      ```
   
-  5. **同步更新的内容到source分支**
+  4. **同步更新的内容到source分支**
 
      ```
      git init
