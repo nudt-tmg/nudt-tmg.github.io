@@ -8,7 +8,7 @@
 
 **该source分支用于保存hexo源码**
 
-- **环境配置**步骤：
+- **环境配置**步骤：（需要hexo环境，[具体参考这里](https://zhuanlan.zhihu.com/p/299161193)）
 
 1.安装Git，[https://git-scm.com/](https://blog.csdn.net/yaorongke/article/details/119085413)
 
@@ -48,7 +48,7 @@
      git pull
      ```
   
-  2. **更新内容后使用以下命令检查更新内容**（需要hexo环境，[具体参考这里](https://zhuanlan.zhihu.com/p/299161193)）
+  2. **更新内容后使用以下命令检查更新内容**
   
      ```shell
      # 安装和更新项目依赖（或npm install npm -g，全局安装npm包的最新版本）
