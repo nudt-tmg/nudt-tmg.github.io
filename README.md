@@ -16,11 +16,9 @@
 
 3.安装Hexo，https://hexo.io/zh-cn/
 
-     ```
      npm install hexo-cli -g
      hexo -v
      # 执行成功说明安装完成
-     ```
 
 
 - **仅更新**步骤：
