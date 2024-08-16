@@ -23,8 +23,8 @@
 
 - **仅更新**步骤：
   
-   1.将新电脑生成的ssh key添加到GitHub账户上
-  
+   1. 将新电脑生成的ssh key添加到GitHub账户上
+      
    2. fork并clone 仓库，打开git bash输入以下命令：
 
       git clone https://github.com/nudt-tmg/nudt-tmg.github.io.git
