@@ -11,8 +11,11 @@
 - **环境配置**步骤：
 
 1.安装Git，[https://git-scm.com/](https://blog.csdn.net/yaorongke/article/details/119085413)
+
 2.安装NodeJS，https://blog.csdn.net/yaorongke/article/details/119084295
+
 3.安装Hexo，https://hexo.io/zh-cn/
+
      ```
      npm install hexo-cli -g
      hexo -v
