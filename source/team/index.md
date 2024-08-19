@@ -6,28 +6,30 @@ title: Team
 
 PHD
 
-- Huijun Liu｜Artificial Intelligence Security｜liuhuijun[at]nudt.edu.cn
 - Yongtao Tang｜Information Extraction｜tangyongtao18[at]nudt.edu.cn
 - Shezheng Song｜Text Summarization｜ssz614[at]nudt.edu.cn
 - Xiaopeng Li | Refreshing LLM| xiaopengli[at]nudt.edu.cn
 - Xi Wang | LLM Security | wx2023[at]nudt.edu.cn
+- Guo Luxiang | Long Context LLM | guoluxiang[at]nudt.edu.cn
 
 Master
 
-- Miaomiao Li｜Artificial Intelligence Security｜limiaomiao21[at]nudt.edu.cn
-- Chuang Zhang | Operating System and Knowledge Graph | -
 - Binrui Zeng | Artificial Intelligence for Operating System | zengbinrui[at]nudt.edu.cn
 - Zhilong Liu | Artificial Intelligence for Operating System | liuzhilong23[at]nudt.edu.cn
 - Xinran Hong | Artificial Intelligence for Operating System | hongxinran[at]nudt.edu.cn
 - Zhuoyi Huang | Artificial Intelligence for Operating System | 1586699654[at]qq.com
+- Chuang Zhang | Operating System and Knowledge Graph | -
 
 # Graduated Students
 
 PHD 
 
+- 2024 (2020.09 - 2024.06)
+  - Huijun Liu |Postdoc at National University of Singapore｜Artificial Intelligence Security｜liuhuijun[at]nudt.edu.cn
+
 - 2022 (2018.09 - 2022.06)
 
-  -  Bin Ji |Postdoc in National University of Singapore｜Information Extraction｜jibin[at]nudt.edu.cn
+  -  Bin Ji |Postdoc at National University of Singapore｜Large Language Model｜jibin[at]nudt.edu.cn
 
 - 2021（2017.09-2021.12）
 
@@ -37,8 +39,11 @@ PHD
 
 Master
 
+- 2024 (2021.09-2024.03)
+  - - Miaomiao Li｜XingWang (Beijing)｜Artificial Intelligence Security | limiaomiao21[at]nudt.edu.cn
+
 - 2023 (2020.09-2023.03)
-  - Jing Yang｜HuaWei (Changsha｜ Information Extraction｜yangjing2036[at]126.com
+  - Jing Yang｜HuaWei (Changsha)｜ Information Extraction｜yangjing2036[at]126.com
   - Mengxue Du｜HuaWei (Wuhan)  ｜ Information Retrieval｜dumengxuenudt[at]nudt.edu.cn
   - Xi Deng｜BYD (Xi'An)｜Text Assessment｜deng[at]nudt.edu.cn
 
