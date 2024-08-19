@@ -3,7 +3,7 @@ title: Teachers
 ---
 
 # Jie Yu 
- <img src="./figures/yujie.png" width="80%" height="35%">
+ <img src="./figures/yujie.png" width="35%" height="35%">
 
 
 Jie Yu obtained BS and PHD from National University of Defense Technology(NUDT) in 2005 and 2010 supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate Internships in National University of Singapore supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor and a vice director of the center of system software in NUDT. He focus on system software, including security and performance in AI (mostly on NLP) and OS (mostly on Linux and Android). He has published more than 60 papers, including SIGCOMM, COLING, ICPP, SecureComm, ISPA etc.
@@ -12,7 +12,7 @@ Jie Yu obtained BS and PHD from National University of Defense Technology(NUDT) 
 Email:  yj[at]nudt.edu.cn
 
 # Jun  Ma 
- <img src="./figures/majun.png" width="45%" height="35%">
+ <img src="./figures/majun.png" width="35%" height="35%">
 
 
 Jun Ma obtained his BS and PHD from National University of Defense Technology(NUDT) China in 2005 and 2011 supervised by Prof. Zhiying Wang. He is a associate research fellow in  Software Engineering Research Center of Computer School, NUDT. His research focuses on operating system(including architecture, kernel, security, desktop, etc), information security(including access control, trust computing, data leakage protection, data recovery, etc.), software engineering(including software ecosystem, dependency management, etc.). He has published more than 30 papers and made a lot of practical engineering systems on Linux, Windows and embedded systems.
@@ -21,7 +21,7 @@ Jun Ma obtained his BS and PHD from National University of Defense Technology(NU
 Email: majun[at]nudt.edu.cn
 
 # ShaSha Li 
- <img src="./figures/lishasha.png" width="65%" height="35%">
+ <img src="./figures/lishasha.png" width="35%" height="35%">
 
 
 Shasha Li obtained BS and PHD from National University of Defense Technology(NUDT) in 2005 and 2011 supervised by Prof. Huowang Chen and Prof. Zhoujun Li. She was a Post-graduate Internships in MSRA supervised by Prof. Chin-Yew Lin during 2008-2011. Currently, She is a associate professor of School of Computer Science in NUDT. She focus on natural language processing and knowledge graph. She has published more than 40 papers, including ACL, COLING, TKDE, IPM etc.
@@ -29,7 +29,7 @@ Shasha Li obtained BS and PHD from National University of Defense Technology(NUD
  Email: shashali[at]nudt.edu.cn
 
  #  XiaoDong Liu
- <img src="./figures/liuxiaodong.png" width="40%" height="35%">
+ <img src="./figures/liuxiaodong.png" width="35%" height="35%">
 
 
  Xiaodong Liu received his BS and Ph.D in Computer Science and Technology from the National University of Defense Technology (NUDT), China in 2007 and 2013, respectively. Currently he works as an associate professor at NUDT and his research mainly focuses on desktop operating systems, software engineering and troubleshooting. 
