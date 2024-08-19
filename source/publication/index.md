@@ -2,10 +2,16 @@
 title: Publication
 ---
 
+## 2024
+- **Bin Ji**, , **Huijun Liu**, **Shasha Li**, **Jie Yu**, **Jun Ma**, **Jing Yang**. Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition. (IEEE Transactions on Knowledge and Data Engineering, TKDE) (CCF-A类国际期刊)
+- **Bin Ji**, **Huijun Liu**, Mingzhe Du, See-Kiong Ng. Chain-of-Thought Improves Text Generation with Citations in Large Language Models, (Association for the Advancement of Artificial Intelligence, AAAI 2024). (CCF-A类国际会议)
+- Mingzhe DU, Anh Tunn Luu, **Bin Ji**, From Static to Dynamic: Knowledge Metabolism form Large Language Models, (Association for the Advancement of Artificial Intelligence, AAAI 2024). (CCF-A类国际会议)
+
 ## 2023
 - **Shezheng Song**, Shan Zhao, **Shasha Li**, Chengyu Wang, Tianwei Yan, Xiaoguang Mao, Meng Wang. A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking, (Association for the Advancement of Artificial Intelligence, AAAI 2023). (CCF-A类国际会议)
 - **Xiaopeng Li, Shasha Li, Shezheng Song, Jing yang, Jun Ma, Jie Yu** PMET: Precise Model Editing in a Transformer. (AAAI 24)(CCF-A类国际会议)
 - **Huijun Liu**, **Bin Ji**, **Jie Yu**, **Shasha Li**, **Jun Ma**, **Zibo Yi**, **Mengxue Du**, **Miaomiao Li**, Jie Liu, Zeyao Mo. A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search. (IEEE Transactions on Knowledge and Data Engineering, TKDE) (CCF-A类国际期刊)
+- Yi Bin, Wenhao Shi, **Bin Ji**, Jipeng Zhang, Yujuan Ding, Yang Yang. Non-Autoregressive Sentence Ordering, (Empirical Methods in Natural Language Processing, EMNLP2024) (CCF-B类国际会议)
 - **Mengxue Du**, **Shasha Li**, **Jie Yu**, **Jun Ma**, **Huijun Liu**, **Miaomiao Li**, **Bin Ji**. DADR: A Denoising Approach for Dense Retrieval ModelTraining. The 7th APWeb-WAIM In-ternational Joint Conference on Web and Big Data. (APWeb-WAIM2023).(CCF-C类国际会议)
 - **Xi Deng**,**Shasha Li**, **Jie Yu**, **Jun Ma**. HM-Transformer: Hierarchical Multi-modalTransformer for Long Document Image Understanding.The 7th APWeb-WAIM In-ternational Joint Conference on Web and Big Data.(APWeb-WAIM2023).(CCF-C类国际会议)
 - **Miaomiao Li**, **Jie Yu**, **Jun Ma**, **Shasha Li**, **Huijun Liu**, **Mengxue Du.** QAE: A Hard-label Textual Attack Considering the Comprehensive Quality of Adversarial Examples. The 12th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC2023)(CCF-C类国际会议)
@@ -14,13 +20,11 @@ title: Publication
 
 ## 2022
 
-- **Bin Ji**, **Shasha Li**, **Jie Yu**, **Jun Ma**, **Huijun Liu**, **Jing Yang**. Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition. Submitted to IEEE Transactions on Knowledge and Data Engineering (CCF-A类国际期刊)
-
 - **Jing Yang**, **Bin Ji**, **Shasha Li**, **Jun Ma**, **Jie Yu**. SciCN: A Scientific Dataset for Chinese Named Entity Recognition. Submitted to CMC-Computers, Materials & Continua (中科院3区, IF=3.89)
 
 - **Bin Ji**, **Shasha Li**, Shaoduo Gan, **Jie Yu**, **Jun Ma**, **Huijun Liu**, **Jing Yang**. Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes, COLING, 2022. (CCF-B类国际会议)
 
-- **Bin Ji**, **Shasha Li**, **Jie Yu**, **Jun Ma**, **Huijun Liu**, **Jing Yang**. Span-based Joint Entity and Relation Extraction Augmented with Sequence Tagging Mechanism, Science-China Information Sciences, 2022. (CCF-B类国际期刊)
+- **Bin Ji**, **Shasha Li**, **Jie Yu**, **Jun Ma**, **Huijun Liu**, **Jing Yang**. Span-based Joint Entity and Relation Extraction Augmented with Sequence Tagging Mechanism, Science-China Information Sciences, 2022. (CCF-A类国际期刊)
 
 - **Huijun Liu**, **Jie Yu**, **Jun Ma**, **Shasha Li**, **Bin Ji**, **Zibo Yi**, **Miaomiao Li**, Long Peng, and Xiaodong Liu. Textual Adversarial Attacks by Exchanging Text-Self Words, International Journal of Intelligent Systems, 2022. (CCF-C类国际期刊, 中科院1区Top, IF=8.75)
 
