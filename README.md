@@ -40,7 +40,13 @@
      git commit -m "upload"
      git push -u origin source
      ```
-      
+      如果上述方法不成功，可以直接在zip分支下载压缩包后解压，运行命令进行验证：
+      ```
+      hexo s
+      ```
+
+
+  
   
 - **更新并编译**步骤：
   
