@@ -51,6 +51,13 @@ Jing Wang received her BS and Ph.D in Computer Science and Technology from the N
 
 Email:wangjing[at]nudt.edu.cn
 
+# Bin Ji
+<img src="./figures/jibin.png" width="35%" height="35%">
+
+Bin Ji received his BS in Computer Science from Shandong University, China in 2014 and Ph.D in Computer Science from the National University of Defense Technology (NUDT), China in 2022. He was a Research Fellow at Institute of Data Science, National Universigy of Singapore from 2023 to 2024. Currently he works as an assistant research fellow at NUDT. His research focuses on LLM-powered Operating System, LLM Quantization，Text Generation with Citations.
+
+Email:jibin[at]nudt.edu.cn
+
 # Li zhuo
 <img src="./figures/lizhuo.png" width="35%" height="35%">
 
